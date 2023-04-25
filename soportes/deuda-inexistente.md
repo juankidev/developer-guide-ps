@@ -16,7 +16,7 @@ Este soporte trata de la inexistencia de un registro asociado a una solicitud es
 
 2. Cambiar el estado de la solicitud desde provisión de servicios a "Pendiente de revisión" y abrir la modal de verificación de requisitos para ver las observaciones.
 
-![Estructura](./images/structure.jpg)
+![CambioEstado](../images/cambiar-estado.jpg)
 
 3. Una vez se tenga la información de la deuda según las observaciones, proceder a hacer la inserción en la tabla de deuda.
 

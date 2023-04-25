@@ -63,14 +63,14 @@ La solución del aplicativo de procisión de servicios cuenta con 7 carpetas pri
 
 #### Soportes:
 
- - [Redirección de ID's](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Deuda inexistente](https://github.com/matiassingers/awesome-readme)
- - [Solicitudes por usuario](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Redirección de ID's](./soportes/redireccionar-id.md)
+ - [Deuda inexistente](./soportes/deuda-inexistente.md)
+ - [Solicitudes por usuario](./soportes/solicitudes-por-usuario.md)
 
  #### Consultas:
 
- - [Municipios de una territorial](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Detalle de cargas](https://github.com/matiassingers/awesome-readme)
- - [Solicitud, solicitante, y estado actual](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Municipios de una territorial](./consultas/municipios-territorial.md)
+ - [Detalle de cargas](./consultas/detalle-cargas.md)
+ - [Solicitud, solicitante, y estado actual](./consultas/solicitud-solicitante-estado.md)
 
 
